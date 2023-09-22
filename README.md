@@ -3,6 +3,7 @@
 # AIM:
 To Install the OS in the computer system.
 # Materials required:
+```python
 1.Operating System Installation Media (DVD, USB drive, or downloaded ISO file)
 2.A computer with compatible hardware
 3.Valid product keys or licenses
@@ -13,6 +14,7 @@ To Install the OS in the computer system.
 8.Monitor or Display
 9.BIOS/UEFI Access Key
 10.External Drive for Drivers
+```
 ![image](https://github.com/Raja8334/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120719634/07edc37f-63c3-4156-bdb9-1a15131c3e50)
 ![image](https://github.com/Raja8334/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120719634/365e37c4-edff-40b1-a86b-facdbc3bd3c0)
 
